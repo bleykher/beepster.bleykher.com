@@ -28,11 +28,11 @@ section.contact {
                     }
                 }
             }
-            &.social-facebook {
+            &.social-vkontakte {
                 a {
-                    background-color: $brand-facebook;
+                    background-color: $brand-vkontakte;
                     &:hover {
-                        background-color: darken($brand-facebook, 5%);
+                        background-color: darken($brand-vkontakte, 5%);
                     }
                 }
             }
